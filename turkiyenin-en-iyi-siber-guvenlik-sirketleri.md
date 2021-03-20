@@ -5,7 +5,7 @@ Siber güvenlik yazılımlarının amacı bilgisayarları, sunucuları, mobil ci
 
 ## Heraklet Bilişim Teknolojileri
 
-<img src="https://i.hizliresim.com/EnnMgU.png" width="300" height="150">
+<img src="https://i.hizliresim.com/EnnMgU.png" width="300" height="auto">
 
 Heraklet Bilişim Teknolojileri; 2002 yılında 5 yazılımcının bir araya gelmesi ile başlayan bir girişimdir. Heraklet Bilişim <em>"Değişmeyen tek şey değişimdir"</em> sloganı ile hareket etmektedir.
 Web Site Tasarımı ve Yapımı, SEO Hizmetleri, Mobil Uygulama Tasarımı ve Yapımı, Sosyal Medya Yönetimi, Siber Güvenlik Hizmetleri gibi birçok alanda hizmet sunmaktadır. Siber güvenlik alanında kurumsal yapıları hedef alan Trojan, Ransoware, Worm gibi virüslerin saldırılarına karşı operasyonel güvenlik sağlayan yapılara sahiptir. Bununla birlikte bilgi güvenliğinde düşük maliyet, yüksek verimlik ilkesini ön planda tutmaktadır. SIEM çözümleri sayesinde çeşitli kurumların ağına bağlanarak aygıtların kaliteli ve güvenli bir hizmet alması için switching (anahtarlama) çözümleri sunmaktadır
@@ -14,7 +14,7 @@ Güvenlik danışmalığı alanında SKYRON Firewal UTM anahtar cihaz geliştirm
 Farklı networklerin haberleşmek için hangi yolu kullanacağını hesaplamak, yönlendirme (Routing) olarak adlandırılır. Bu işlemi yapan aygıta ise yönlendirici (router) denmektedir. Siber güvenliği sağlamak adına yönlendirici cihazlarının sisteme uyumlu olması gerekmektedir. Heraklet Bilişim Teknolojileri bu uyum sorunu için Virtual Private Network uzaktan erişim, PulSecure, NordVPN, ExpressVPN gibi hizmetler sunmaktadır.
 
 ## INTEL PROPE
-<img src="https://i.hizliresim.com/0U7XOB.png" width="200" height="150">
+<img src="https://i.hizliresim.com/0U7XOB.png" width="200" height="auto">
 
 Intel Prope, yeni dönem savunma teknolojileri, siber tehdit istihbaratı ve siber güvenlik alanında çözüm geliştiren bir Türk şirketidir. 
 PARS Cyber Büyük Veri ve CatchProbe Siber İstihbarat adlı iki ana ürüne sahiptir.
@@ -25,7 +25,7 @@ CatchProbe Siber İstihbarat; açık kaynak veri kaynaklarından bilgi alarak si
 
 ## Barikat Siber Güvenlik
 
-<img src="https://i.hizliresim.com/QCzlUG.png" width="280" height="150">
+<img src="https://i.hizliresim.com/QCzlUG.png" width="280" height="auto">
 2008 yılında kurulmuştur. Kurulduğu günden bu güne değin sadece bilişim güvenliği ile ilgili çalışmalar yapmıştır. 
 
 Siber güvenlik alanında üç adet hizmeti vardır.
@@ -37,14 +37,14 @@ Siber güvenlik alanında üç adet hizmeti vardır.
 
 ## UITSEC TEKNOLOJİ A.Ş
 
-<img src="https://i.hizliresim.com/CqhhpX.png" width="200" height="150">
+<img src="https://i.hizliresim.com/CqhhpX.png" width="200" height="auto">
 
 UITSEC uluslararası alanda kabul gören, dünya genelinde birçok kuruma  siber güvenlik hizmeti sunan bir teknoloji şirketidir. Hizmet kalitesi pek çok ödül ile de ispatlanan UITSEC, Carnegie Mellon Üniversitesi tarafından resmi onaylı CERT ünvanına sahiptir.Bu ünvana sahip iki şirketten biridir. Computer Emergency Response Team (Bilgisayar Acil Müdahale Ekibi) olarak bilinen resmî CERT akreditasyonuna sahip özel sektördeki tek firmadır.
 
 Avrupa Bilgisayar Olaylarına Müdahale Takımları Topluluğu’nun (CERT/CSIRT- Trusted Introducer) isterlerinin tamamını sağlayarak Türkiye de sayılı firmalar arasında yerini almıştır. Bünyesinde OSCE, OSCP, CEH gibi sertifikalar barındırır. Sadece siber güvenlik değil Internet of Things  ( Nesnelerin İnterneti ) alanında birçok kuruma danışmanlık hizmeti vermektedir. Türkiye'deki diğer siber güvenlik şirketlerinden ayrıldığı en önemli nokta ise dünyadaki pek çok siber güvenlik şirketi ile bilgi paylaşımında bulunmasıdır.
 
 ## STM 
-<img src="https://i.hizliresim.com/aE1ifv.jpg" width="200" height="150">
+<img src="https://i.hizliresim.com/aE1ifv.jpg" width="200" height="auto">
 
 Türkiye’nin bilgi güvenliği noktasında ulusal güvenliği sağlamak amacı ile 1991 yılında kurulmuştur. Amacı yüksek teknoloji gereken alanlarda teknoloji transferi sağlamak, teknik destek vermek, sektördeki firmalara rehberlik etmek ve firmalara yardımcı olmaktır. Yerli kaynaklar kullanarak bilhassa savunmaya sanayisinin siber güvenlik ihtiyacını karşılamaktadır.
 
@@ -62,7 +62,7 @@ Türkiye’nin bilgi güvenliği noktasında ulusal güvenliği sağlamak amacı
   Yukarıda yazıldığı gibi siber güvenlik alanında pek çok hizmet sunmaktadır. Siber güvenlik dışında denizcilik projeleri, otonom sistemler, komuta-kontrol alanında da projeler yürütmekte ve danışmanlık hizmeti vermektedir.
   
   ## TRAPMİNE
-  <img src="https://i.hizliresim.com/gi0vih.png" width="200" height="150">
+  <img src="https://i.hizliresim.com/gi0vih.png" width="200" height="auto">
   
 Trapmine 2016 yılında kurulan ve güvenlik araştırmacıları tarafından sektörde tanınan bir kuruluştur. Trapmine şirketinin kurucuları uzun yıllardır zafiyet avlama, zararlı yazılım analiz etme ve güvenlik çözümleri geliştirmek amacı ile birlikte çalıştı.
   
@@ -70,7 +70,7 @@ Trapmine, "Trapmine Defense" ve "Trapmine Hunter" adında 2 temel hizmet sunmakt
 
 ## INNOVERA
 
-<img src="https://i.hizliresim.com/EJZx1D.png" width="250" height="150">
+<img src="https://i.hizliresim.com/EJZx1D.png" width="250" height="auto">
 
 INNOVERA 2007 yılında kurulmuştur. Bilgi güvenliği alanında danışmanlık şirketi olarak çalışmalarını sürdürmektedir. Güvenlik teknolojisi ve araştırma-geliştirme alanında Türkiye’nin öncü ve lider kurumları arasındadır.
 
@@ -81,14 +81,14 @@ INNOVERA, 2017 ve 2018 yılında  500 Bilişim Şirketi Araştırması tarafınd
 
 ## ITSECURİTY
 
-<img src="https://i.hizliresim.com/WGMDwb.png" width="250" height="150">
+<img src="https://i.hizliresim.com/WGMDwb.png" width="250" height="auto">
 
 IT Security 2014 yılından beri siber güvenlik alanında faaliyet göstermektedir. Ülkemizdeki bilgi güvenliği sektörüne profesyonel anlamda destek için kurulmuştur. Stratejik siber güvenlik danışmanlığı ve güvenlik eğitimleri konularında kurumlara hizmet vermektedir.
 
 Bilgi güvenliği danışmanlığı, güvenlik operasyon merkezi, DDoS test ve koruma hizmeti, sızma testleri, siber olay inceleme testlerinde danışmanlık vermektedir. Bilgi güvenliği konusunda bilgi ve deneyimlerin paylaşılması ve değerlendirilmesi noktasında da çalışmalar yürütmektedir. Bu kapsamda üniversite öğrencilerine kariyer oluşturmak amacı ile kurslar düzenlemekte,seminerler aracılığı ile de insanları aydınlatma çalışmaları yürütmektedir.
 
 ## ADEO
-<img src="https://i.hizliresim.com/51haJ0.jpg" width="300" height="150">
+<img src="https://i.hizliresim.com/51haJ0.jpg" width="300" height="auto">
 
 2008 yılından beri siber güvenlik alanında faaliyet gösteren bir şirkettir. Kurulduğundan bu güne 500'den fazla proje gerçekleştirmiştir. DDos testi ile kurumlara bilinçli ve kontrollü biçimde çeşitli saldırılar yapar. Gerçek bir saldırı olmadan önce kurumların sistemlerini test eder. Üç farklı sızma testi uygulayarak güvenliği arttırmayı hedeflemektedir. Sızma testlerinde kurum içindeki bir kişinin bilgileri alınarak sızma yapılır. Kurum içinden gelebilecek bir saldırıya karşı, gerçek zamanlı, dışarıdan bir sızma testi gerçekleştirir. Bu yöntem ile korumayı en üst seviyede tutmayı hedefler.
 
