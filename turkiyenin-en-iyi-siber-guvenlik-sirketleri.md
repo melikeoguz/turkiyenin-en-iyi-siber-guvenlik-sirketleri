@@ -1,13 +1,6 @@
 # TÜRKİYE'NİN EN İYİ SİBER GÜVENİK ŞİRKETLERİ
 
-Siber güvenlik yazılımlarının amacı bilgisayarları, sunucuları, mobil cihazları, elektronik sistemleri, ağları ve verileri kötü amaçlı saldırılardan korumaktır. Gelişen ağ teknolojileri  ve yaygınlaşan sosyal ağlar nedeni ile veri paylaşımı hızla artmaktadır. Veri paylaşımının artması ülkemizde siber güvenlik talebini hızla arttırmaktadır.
-
-Siber güvenlik şirketleri en temel anlamda bireylerin, kurumların ve kuruluşların bilgi güvenliği alanında eğitim, danışmanlık, güvenlik hizmeti sunan şirketlerdir.
-
-Yapılan araştırmalara göre Türkiye 2019 yılında dünya da web tabanlı siber saldırıların hedefi olan dördüncü ülke olmuştur.Türkiye'deki her 4 internet tüketicisinden biri olumsuz bir siber / dijital saldırı deneyimi yaşadığını söylemektedir.
-
-Bu saldırılar altında sürekli sosyal medya da paylaştığımız özel verilerimizi ya da e-ticaret sitelerinde kullandığımız kişisel verilerimizi nasıl koruyacağız. Türkiye de siber güvenliğimizi sağlayan firma var mı? Bu firmalar güvenilir mi? İşte tüm bu sorular için size Türkiye’nin 10 büyük siber güvenlik firmasını tanıttık.
-
+Siber güvenlik yazılımlarının amacı bilgisayarları, sunucuları, mobil cihazları, elektronik sistemleri, ağları ve verileri kötü amaçlı saldırılardan korumaktır. Gelişen ağ teknolojileri  ve yaygınlaşan sosyal ağlar nedeni ile veri paylaşımı hızla artmaktadır. Veri paylaşımının artması ülkemizde siber güvenlik talebini hızla arttırmaktadır. Siber güvenlik şirketleri en temel anlamda bireylerin, kurumların ve kuruluşların bilgi güvenliği alanında eğitim, danışmanlık, güvenlik hizmeti sunan şirketlerdir. Yapılan araştırmalara göre Türkiye 2019 yılında dünya da web tabanlı siber saldırıların hedefi olan dördüncü ülke olmuştur.Türkiye'deki her 4 internet tüketicisinden biri olumsuz bir siber / dijital saldırı deneyimi yaşadığını söylemektedir. Bu saldırılar altında sürekli sosyal medya da paylaştığımız özel verilerimizi ya da e-ticaret sitelerinde kullandığımız kişisel verilerimizi nasıl koruyacağız ? Türkiye de siber güvenliğimizi sağlayan firma var mı? Bu firmalar güvenilir mi? İşte tüm bu sorular için sizlere <a href="https://heraklet.com" Türkiye’nin en iyi siber güvenlik şirketleri</a> adlı yazıyı hazırladık. 
 
 
 ## Heraklet Bilişim Teknolojileri
